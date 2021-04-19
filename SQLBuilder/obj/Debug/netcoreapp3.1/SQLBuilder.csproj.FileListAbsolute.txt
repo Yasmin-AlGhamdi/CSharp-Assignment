@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\bin\Debug\netcoreapp3.1\SQLBuilder.exe
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\bin\Debug\netcoreapp3.1\SQLBuilder.deps.json
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\bin\Debug\netcoreapp3.1\SQLBuilder.runtimeconfig.json
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\bin\Debug\netcoreapp3.1\SQLBuilder.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\bin\Debug\netcoreapp3.1\SQLBuilder.dll
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\bin\Debug\netcoreapp3.1\SQLBuilder.pdb
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\obj\Debug\netcoreapp3.1\SQLBuilder.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\obj\Debug\netcoreapp3.1\SQLBuilder.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\obj\Debug\netcoreapp3.1\SQLBuilder.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\obj\Debug\netcoreapp3.1\SQLBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\obj\Debug\netcoreapp3.1\SQLBuilder.dll
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\obj\Debug\netcoreapp3.1\SQLBuilder.pdb
+C:\Users\Yasmin\source\repos\SQLBuilder\SQLBuilder\obj\Debug\netcoreapp3.1\SQLBuilder.genruntimeconfig.cache

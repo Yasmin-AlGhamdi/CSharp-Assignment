@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\bin\Debug\netcoreapp3.1\NumberBuilder.exe
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\bin\Debug\netcoreapp3.1\NumberBuilder.deps.json
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\bin\Debug\netcoreapp3.1\NumberBuilder.runtimeconfig.json
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\bin\Debug\netcoreapp3.1\NumberBuilder.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\bin\Debug\netcoreapp3.1\NumberBuilder.dll
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\bin\Debug\netcoreapp3.1\NumberBuilder.pdb
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\obj\Debug\netcoreapp3.1\NumberBuilder.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\obj\Debug\netcoreapp3.1\NumberBuilder.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\obj\Debug\netcoreapp3.1\NumberBuilder.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\obj\Debug\netcoreapp3.1\NumberBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\obj\Debug\netcoreapp3.1\NumberBuilder.dll
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\obj\Debug\netcoreapp3.1\NumberBuilder.pdb
+C:\Users\Yasmin\source\repos\NumberBuilder\NumberBuilder\obj\Debug\netcoreapp3.1\NumberBuilder.genruntimeconfig.cache
